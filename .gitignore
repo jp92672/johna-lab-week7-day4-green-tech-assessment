@@ -1,0 +1,5 @@
+*.env
+.DS_Store
+Course Files/
+Example Files/
+claude_design_prompt.md
