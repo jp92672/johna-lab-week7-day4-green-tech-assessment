@@ -6,7 +6,7 @@
 > request back into this repository. An AI reviewer will check your PR against `rubric.md` and
 > leave feedback directly on the PR. See `README.md` for the full workflow.
 
-Complete **[Green Software & Sustainable AI](../content/01_green-tech-fundamentals.md)** before starting this lab.
+Complete **Green Software & Sustainable AI** before starting this lab.
 
 This lab is **hands-on and presentation-shaped**: you will **build a short slide deck** that (1) **defends** your green-tech assessment with clear reasoning and honest limits, and (2) **proposes concrete improvements** mapped to the **four pillars** (carbon, energy, hardware, measurement) and, where useful, ideas from the **[Green Software Patterns](https://patterns.greensoftware.foundation/)** catalog.
 
